@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/main/</loc>
+    <loc>https://leikercg.github.io/vehiculos/main/</loc>
     <lastmod>2023-10-05T17:56:02+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://leikercg.github.io/vehiculos/</loc>
     <lastmod>2023-09-22T19:57:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://example.com/pt/"
+                href="https://leikercg.github.io/vehiculos/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/"
+                href="https://leikercg.github.io/vehiculos/"
                 />
   </url><url>
-    <loc>https://example.com/coches/civic/</loc>
+    <loc>https://leikercg.github.io/vehiculos/coches/civic/</loc>
     <lastmod>2023-09-22T19:57:06+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/coches/</loc>
+    <loc>https://leikercg.github.io/vehiculos/coches/</loc>
     <lastmod>2023-09-22T19:57:06+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/coches/focus/</loc>
+    <loc>https://leikercg.github.io/vehiculos/coches/focus/</loc>
   </url><url>
-    <loc>https://example.com/motos/monkey/</loc>
+    <loc>https://leikercg.github.io/vehiculos/motos/monkey/</loc>
   </url><url>
-    <loc>https://example.com/motos/pipe/</loc>
+    <loc>https://leikercg.github.io/vehiculos/motos/pipe/</loc>
   </url><url>
-    <loc>https://example.com/patinetes/s3/</loc>
+    <loc>https://leikercg.github.io/vehiculos/patinetes/s3/</loc>
   </url><url>
-    <loc>https://example.com/patinetes/seriex45/</loc>
+    <loc>https://leikercg.github.io/vehiculos/patinetes/seriex45/</loc>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://leikercg.github.io/vehiculos/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://example.com/pt/categories/"
+                href="https://leikercg.github.io/vehiculos/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/categories/"
+                href="https://leikercg.github.io/vehiculos/categories/"
                 />
   </url><url>
-    <loc>https://example.com/motos/</loc>
+    <loc>https://leikercg.github.io/vehiculos/motos/</loc>
   </url><url>
-    <loc>https://example.com/patinetes/</loc>
+    <loc>https://leikercg.github.io/vehiculos/patinetes/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://leikercg.github.io/vehiculos/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://example.com/pt/tags/"
+                href="https://leikercg.github.io/vehiculos/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/tags/"
+                href="https://leikercg.github.io/vehiculos/tags/"
                 />
   </url>
 </urlset>

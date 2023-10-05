@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Motos on Bear Cub</title>
-    <link>https://example.com/motos/</link>
+    <link>https://leikercg.github.io/vehiculos/motos/</link>
     <description>Recent content in Motos on Bear Cub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>John Doe (CC BY 4.0)</copyright><atom:link href="https://example.com/motos/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>John Doe (CC BY 4.0)</copyright><atom:link href="https://leikercg.github.io/vehiculos/motos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.com/motos/monkey/</link>
+      <link>https://leikercg.github.io/vehiculos/motos/monkey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/motos/monkey/</guid>
+      <guid>https://leikercg.github.io/vehiculos/motos/monkey/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/motos/pipe/</link>
+      <link>https://leikercg.github.io/vehiculos/motos/pipe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/motos/pipe/</guid>
+      <guid>https://leikercg.github.io/vehiculos/motos/pipe/</guid>
       <description></description>
     </item>
     

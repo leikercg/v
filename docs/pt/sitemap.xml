@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/pt/</loc>
+    <loc>https://leikercg.github.io/vehiculos/pt/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/"
+                href="https://leikercg.github.io/vehiculos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://example.com/pt/"
+                href="https://leikercg.github.io/vehiculos/pt/"
                 />
   </url><url>
-    <loc>https://example.com/pt/categories/</loc>
+    <loc>https://leikercg.github.io/vehiculos/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/categories/"
+                href="https://leikercg.github.io/vehiculos/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://example.com/pt/categories/"
+                href="https://leikercg.github.io/vehiculos/pt/categories/"
                 />
   </url><url>
-    <loc>https://example.com/pt/tags/</loc>
+    <loc>https://leikercg.github.io/vehiculos/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/tags/"
+                href="https://leikercg.github.io/vehiculos/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://example.com/pt/tags/"
+                href="https://leikercg.github.io/vehiculos/pt/tags/"
                 />
   </url>
 </urlset>
