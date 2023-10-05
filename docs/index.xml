@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bear Cub</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Bear Cub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>John Doe (CC BY 4.0)</copyright>
+    <lastBuildDate>Fri, 22 Sep 2023 19:57:06 +0200</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Main</title>
+      <link>https://example.com/main/</link>
+      <pubDate>Thu, 05 Oct 2023 17:56:02 +0200</pubDate>
+      
+      <guid>https://example.com/main/</guid>
+      <description>hola </description>
+    </item>
+    
+    <item>
+      <title>Civic</title>
+      <link>https://example.com/coches/civic/</link>
+      <pubDate>Fri, 22 Sep 2023 19:57:06 +0200</pubDate>
+      
+      <guid>https://example.com/coches/civic/</guid>
+      <description>HONDA CIVIC Motor La marca japonesa Honda incluye dos versiones de su motor VTEC Turbo, ya que los conductores interesados en el Honda Civic podrán contar con la versión de 1,0 litros, que genera 129 CV de potencia, y con otra de 1,5 litros que otorga la gran cifra de 182 CV. Estas unidades de potencia se complementan, además, con una transmisión manual de seis velocidades que puede ser sustituida por una versión automática de transmisión variable (CVT).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/coches/focus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/coches/focus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/motos/monkey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/motos/monkey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/motos/pipe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/motos/pipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/patinetes/s3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/patinetes/s3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/patinetes/seriex45/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/patinetes/seriex45/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
