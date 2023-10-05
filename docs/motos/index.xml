@@ -6,23 +6,24 @@
     <description>Recent content in Motos on Bear Cub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>John Doe (CC BY 4.0)</copyright><atom:link href="https://leikercg.github.io/vehiculos/motos/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>John Doe (CC BY 4.0)</copyright>
+    <lastBuildDate>Fri, 22 Sep 2023 19:57:06 +0200</lastBuildDate><atom:link href="https://leikercg.github.io/vehiculos/motos/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Monkey</title>
       <link>https://leikercg.github.io/vehiculos/motos/monkey/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Sep 2023 19:57:06 +0200</pubDate>
       
       <guid>https://leikercg.github.io/vehiculos/motos/monkey/</guid>
-      <description></description>
+      <description>LA NUEVA HONDA MONKEY, ¿CÓMO ES? La nueva Monkey está empujada por un monocilíndrico de 125 cc muy similar al que utiliza la MSX125. De este modo es un motor con el cilindro prácticamente tumbado hacia delante y con una caja de cambios de cuatro relaciones que en su caso si está asistida por un embrague multidisco en aceite de accionamiento convencional. Anuncia poco más de 9 CV a 7.000 rpm, pero teniendo en cuenta que el peso en orden de marcha declarado para la Monkey es de solo 107 kg, consigue moverla con cierto brío y superar incluso los 100 km/h de velocidad máxima (con la MSX125 hemos llegado a registrar 106 km/h en condiciones normales)</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Pipe</title>
       <link>https://leikercg.github.io/vehiculos/motos/pipe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Sep 2023 19:57:06 +0200</pubDate>
       
       <guid>https://leikercg.github.io/vehiculos/motos/pipe/</guid>
-      <description></description>
+      <description>Motor La KYMCO K Pipe no sólo se trata de un vehículo económico de adquisición, sino también de consumo y mantenimiento. El motor de la KYMCO K Pipe es el mayor logro que ha conseguido KYMCO en los últimos 40 años en cuanto a ahorro de combustible se refiere y robustez mecánica. En la etapa de pruebas, KYMCO K Pipe ha registrado un consumo en condiciones reales de tan sólo 2,48 litros a los 100 km, lo que supone un gran ahorro en su utilización diaria a la vez que una importante contribución al medio ambiente al disminuir drásticamente sus emisiones contaminantes.</description>
     </item>
     
   </channel>
