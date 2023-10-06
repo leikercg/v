@@ -5,7 +5,7 @@ draft = false
 +++
 
 ## LA NUEVA HONDA MONKEY, ¿CÓMO ES?
-![moto monkey](./images/monkey.jpg)
+![moto monkey](https://leikercg.github.io/vehiculos/images/monkey.jpg)
 
 La nueva Monkey está empujada por un monocilíndrico de 125 cc muy similar al que utiliza la MSX125. De este modo es un motor con el cilindro prácticamente tumbado hacia delante y con una caja de cambios de cuatro relaciones que en su caso si está asistida por un embrague multidisco en aceite de accionamiento convencional. Anuncia poco más de 9 CV a 7.000 rpm, pero teniendo en cuenta que el peso en orden de marcha declarado para la Monkey es de solo 107 kg, consigue moverla con cierto brío y superar incluso los 100 km/h de velocidad máxima (con la MSX125 hemos llegado a registrar 106 km/h en condiciones normales)
 

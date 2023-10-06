@@ -4,6 +4,7 @@ date = 2023-09-22T19:57:06+02:00
 draft = false
 +++
 
+![Moto Pipe](https://leikercg.github.io/vehiculos/images/pipe.jpg)
 ## Motor
 
 La KYMCO K Pipe no sólo se trata de un vehículo económico de adquisición, sino también de consumo y mantenimiento. El motor de la KYMCO K Pipe es el mayor logro que ha conseguido KYMCO en los últimos 40 años en cuanto a ahorro de combustible se refiere y robustez mecánica. En la etapa de pruebas, KYMCO K Pipe ha registrado un consumo en condiciones reales de tan sólo 2,48 litros a los 100 km, lo que supone un gran ahorro en su utilización diaria a la vez que una importante contribución al medio ambiente al disminuir drásticamente sus emisiones contaminantes.

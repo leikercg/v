@@ -1,8 +1,38 @@
 # Basic config
 baseURL = "https://leikercg.github.io/vehiculos/"
 theme = "hugo-bearcub"
-copyright = "John Doe (CC BY 4.0)"
+title = 'Vehiculos'
+copyright = "Leiker Castillo 6-10-2023"
 defaultContentLanguage = "en"
+
+
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "Motos"
+    name = "Motos"
+    title = "About"
+    url = "/motos/"
+    weight = 0
+  [[menu.main]]
+    identifier = "Coches"
+    name = "Coches"
+    title = "coches"
+    url = "/coches/"
+    weight = 0
+
+    [[menu.main]]
+    identifier = "Patinetes"
+    name = "Patinetes"
+    title = "patienes"
+    url = "/patinetes/"
+    weight = 0
+
+
+
+
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
@@ -28,7 +58,7 @@ enableRobotsTXT = true
 # see https://gohugo.io/content-management/multilingual/
 [languages]
   [languages.en]
-    title = "Bear Cub"
+    title = "Vehiculos"
     languageName = "en-US 🇺🇸"
     LanguageCode = "en-US"
     contentDir = "content"
@@ -36,7 +66,7 @@ enableRobotsTXT = true
       blogPath = "blog" # Path to your blog section (used by RSS)
       madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
   [languages.pt]
-    title = "Bear Cub"
+    title = "Vehiculos"
     languageName = "pt-BR 🇧🇷"
     LanguageCode = "pt-BR"
     contentDir = "content.pt"
@@ -59,7 +89,7 @@ enableRobotsTXT = true
 
   # This title is used as the site_name on the Hugo's internal opengraph
   # structured data template
-  title = "Bear Cub"
+
 
   # Dates are displayed following the format below. For more information about
   # formatting, see https://gohugo.io/functions/format/
