@@ -6,8 +6,6 @@ copyright = "Leiker Castillo 6-10-2023"
 defaultContentLanguage = "en"
 
 
-
-
 [menu]
 
   [[menu.main]]
@@ -65,16 +63,12 @@ enableRobotsTXT = true
     [languages.en.params]
       blogPath = "blog" # Path to your blog section (used by RSS)
       madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
-  [languages.pt]
-    title = "Vehiculos"
-    languageName = "pt-BR 🇧🇷"
-    LanguageCode = "pt-BR"
-    contentDir = "content.pt"
-    [languages.pt.params]
-      blogPath = "blog" # Path to your blog section (used by RSS)
-      madeWith = "Feito com [Bear Cub](https://github.com/clente/hugo-bearcub)"
+
 
 [params]
+
+  miVariable = "Esto es una página de vehiculos"
+
   # The description of your website
   description = "Bear Cub Demo"
 
