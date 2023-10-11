@@ -22,3 +22,4 @@ Otra gran idea patentada por Cecotec. Con el sistema Perfect Journey podrás opt
 
 - Luz adaptativa
 La luz del Bongo X45 es capaz de medir la cantidad de iluminación en el ambiente para encender la luz cuando sea necesario. Como puedes ver, Cecotec ha dado un buen golpe sobre la mesa del mercado de los VMP (vehículos de movilidad personal). Estamos seguros que la gama de la Serie X dará mucho que hablar.
+
